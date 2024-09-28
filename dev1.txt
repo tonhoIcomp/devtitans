@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  "Olá mundo, aqui é uma nova alteração" 
  
+=======
+Olá mundo, aqui é uma nova alteração
+>>>>>>> eb7e987a8b0aa3b7f99dea6a67f483014f60064d
